@@ -9,7 +9,7 @@ function Header() {
     <header>
       {location.pathname !== "/" ? <button className="back-button" onClick={() => navigate(-1)}><FaChevronLeft/></button> : <button className="back-button" disabled></button>}
       <div className="logo">
-        <img src='/images/wzdmz_recipes.svg' />
+        <img src='images/wzdmz_recipes.svg' />
       </div>
       {location.pathname !== "/settings" ?
         <button className="navlink" onClick={() => navigate('/settings')}><MdSettings/></button>

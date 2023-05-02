@@ -21,6 +21,9 @@ i18n
     detection:option,
     interpolation: {
       escapeValue: false, // not needed for react as it escapes by default
-    }
+    },
+    backend: {
+      loadPath: '/warzone-dmz-recipes/locales/{{lng}}/{{ns}}.json',
+    },
   });
 export default i18n;
