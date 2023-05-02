@@ -23,7 +23,7 @@ function DisplayRecipe() {
             <span className="item-name">{t(`items.${item.id}`)}</span>
           </div>
           <div className="item-image">
-            <img src={`icons/${item.icon}.png`} />
+            <img src={`/icons/${item.icon}.png`} />
           </div>
         </div>
       )

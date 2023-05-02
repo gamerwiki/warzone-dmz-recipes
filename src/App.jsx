@@ -12,15 +12,16 @@ import './App.css'
 
 function App() {
   const params = useParams();
+  const baseUrl = 'warzone-dmz-recipes';
   console.log(params)
   return (
     <>
     <Header/>
       <Routes>
-        <Route path="/" element={<ListMaps/>} />
-        <Route path="/map/:mapId" element={<ListRecipes/>} />
-        <Route path="/map/:mapId/recipes/:id" element={<DisplayRecipe/>} />
-        <Route path="/settings" element={<Settings/>} />
+        <Route path={`${baseUrl}`} element={<ListMaps/>} />
+        <Route path={`${baseUrl}/map/:mapId`} element={<ListRecipes/>} />
+        <Route path={`${baseUrl}/map/:mapId/recipes/:id`} element={<DisplayRecipe/>} />
+        <Route path={`${baseUrl}/settings`} element={<Settings/>} />
       </Routes>
     <Footer/>
     </>

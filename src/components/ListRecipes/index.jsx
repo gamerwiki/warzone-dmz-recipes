@@ -15,7 +15,7 @@ function ListRecipes() {
       return (
         <div key={item.id} className="item">
           <div className="item-image">
-            <img src={`icons/${item.icon}.png`} />
+            <img src={`/icons/${item.icon}.png`} />
             <span className="item-amount">x{item.amount}</span>
           </div>
         </div>
@@ -27,7 +27,7 @@ function ListRecipes() {
         <Link to={`./recipes/${recipe.id}`} className="recipe">
           <div className="recipe-name">{t(`items.${recipe.id}`)}</div>
           <div className="recipe-image">
-            <img src={`icons/${recipe.icon}.png`} />
+            <img src={`/icons/${recipe.icon}.png`} />
           </div>
           <div className="item-list">
             {itemList}
