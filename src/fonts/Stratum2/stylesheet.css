@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Stratum2 Bd';
+    src: url('Stratum2-Bold.woff2') format('woff2'),
+        url('Stratum2-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stratum2 Rg';
+    src: url('Stratum2-Regular.woff2') format('woff2'),
+        url('Stratum2-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stratum2 Md';
+    src: url('Stratum2-Medium.woff2') format('woff2'),
+        url('Stratum2-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

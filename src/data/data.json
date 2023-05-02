@@ -1,0 +1,560 @@
+{
+  "al-mazrah": {
+    "name": "Al Mazrah",
+    "recipes": [
+      {
+        "id": "commvest",
+        "icon": "commvest",
+        "name": "Comms Vest",
+        "items": [
+          {
+            "id": "battery",
+            "icon": "battery",
+            "name": "Battery",
+            "amount": 2
+          },
+          {
+            "id": "hard_drive",
+            "icon": "hard_drive",
+            "name": "Hard Drive",
+            "amount": 2
+          },
+          {
+            "id": "soothing_hand_cream",
+            "icon": "soothing_hand_cream",
+            "name": "Soothing Hand Cream",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "medicvest",
+        "icon": "medicvest",
+        "name": "Medic Vest",
+        "items": [
+          {
+            "id": "bandage",
+            "icon": "bandage",
+            "name": "Bandage",
+            "amount": 3
+          },
+          {
+            "id": "liquor",
+            "icon": "liquor",
+            "name": "Liquor",
+            "amount": 1
+          },
+          {
+            "id": "watch",
+            "icon": "watch",
+            "name": "Watch",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "stealthvest",
+        "icon": "stealthvest",
+        "name": "Stealth Vest",
+        "items": [
+          {
+            "id": "electrical_components",
+            "icon": "electrical_components",
+            "name": "Electrical Components",
+            "amount": 2
+          },
+          {
+            "id": "comic_book",
+            "icon": "comic_book",
+            "name": "Comic Book",
+            "amount": 1
+          },
+          {
+            "id": "game_console",
+            "icon": "game_console",
+            "name": "Game Console",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "scavenger_backpack",
+        "icon": "scavenger_backpack",
+        "name": "Scavenger backpack",
+        "items": [
+          {
+            "id": "battery",
+            "icon": "battery",
+            "name": "Battery",
+            "amount": 1
+          },
+          {
+            "id": "canned_foods",
+            "icon": "canned_foods",
+            "name": "Canned Foods",
+            "amount": 1
+          },
+          {
+            "id": "gun_cleaning_oil",
+            "icon": "gun_cleaning_oil",
+            "name": "Gun Cleaning Oil",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "id": "secure_backpack",
+        "icon": "secure_backpack",
+        "name": "Secure backpack",
+        "items": [
+          {
+            "id": "electric_drill",
+            "icon": "electric_drill",
+            "name": "Electric Drill",
+            "amount": 2
+          },
+          {
+            "id": "gas_can",
+            "icon": "gas_can",
+            "name": "Gas Can",
+            "amount": 2
+          },
+          {
+            "id": "gold_skull",
+            "icon": "gold_skull",
+            "name": "Gold Skull",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "id": "armor_box",
+        "icon": "armor_box",
+        "name": "Armor Box",
+        "items": [
+          {
+            "id": "electric_tape",
+            "icon": "electric_tape",
+            "name": "Electric Tape",
+            "amount": 1
+          },
+          {
+            "id": "screwdriver",
+            "icon": "screwdriver",
+            "name": "Screwdriver",
+            "amount": 1
+          },
+          {
+            "id": "c4",
+            "icon": "c4",
+            "name": "C4",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "munitions_box",
+        "icon": "munitions_box",
+        "name": "Munitions Box",
+        "items": [
+          {
+            "id": "imported_tea",
+            "icon": "imported_tea",
+            "name": "Imported Tea",
+            "amount": 1
+          },
+          {
+            "id": "cash",
+            "icon": "cash",
+            "name": "Cash",
+            "amount": 500
+          }
+        ]
+      },
+      {
+        "id": "revive_pistol",
+        "icon": "revive_pistol",
+        "name": "Revive Pistol",
+        "items": [
+          {
+            "id": "toothpaste",
+            "icon": "toothpaste",
+            "name": "Toothpaste",
+            "amount": 2
+          },
+          {
+            "id": "lighter",
+            "icon": "lighter",
+            "name": "Lighter",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "tactical_camera",
+        "icon": "tactical_camera",
+        "name": "Tactical Camera",
+        "items": [
+          {
+            "id": "car_battery",
+            "icon": "car_battery",
+            "name": "Car Battery",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "skeleton_key",
+        "icon": "skeleton_key",
+        "name": "Skeleton Key",
+        "items": [
+          {
+            "id": "gpu",
+            "icon": "gpu",
+            "name": "GPU",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "crane_control_key",
+        "icon": "crane_control_key",
+        "name": "Crane Control Key",
+        "items": [
+          {
+            "id": "stronghold_keycard",
+            "icon": "stronghold_keycard",
+            "name": "Stronghold Keycard",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "poppy_farmer_key",
+        "icon": "poppy_farmer_key",
+        "name": "Poppy Farmer Key",
+        "items": [
+          {
+            "id": "radiation_blocker",
+            "icon": "radiation_blocker",
+            "name": "Radiation Blocker",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "id": "radiation_blocker",
+        "icon": "radiation_blocker",
+        "name": "Radiation Blocker",
+        "items": [
+          {
+            "id": "blow_torch",
+            "icon": "blow_torch",
+            "name": "Blow Torch",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "durable_gas_mask",
+        "icon": "durable_gas_mask",
+        "name": "Durable Gas Mask",
+        "items": [
+          {
+            "id": "toothpaste",
+            "icon": "toothpaste",
+            "name": "Toothpaste",
+            "amount": 2
+          },
+          {
+            "id": "lighter",
+            "icon": "lighter",
+            "name": "Lighter",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "ashika-island": {
+    "name": "Ashika Island",
+    "recipes": [
+      {
+        "id": "commvest",
+        "icon": "commvest",
+        "name": "Comms Vest",
+        "items": [
+          {
+            "id": "battery",
+            "icon": "battery",
+            "name": "Battery",
+            "amount": 2
+          },
+          {
+            "id": "hard_drive",
+            "icon": "hard_drive",
+            "name": "Hard Drive",
+            "amount": 2
+          },
+          {
+            "id": "soothing_hand_cream",
+            "icon": "soothing_hand_cream",
+            "name": "Soothing Hand Cream",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "medicvest",
+        "icon": "medicvest",
+        "name": "Medic Vest",
+        "items": [
+          {
+            "id": "bandage",
+            "icon": "bandage",
+            "name": "Bandage",
+            "amount": 3
+          },
+          {
+            "id": "liquor",
+            "icon": "liquor",
+            "name": "Liquor",
+            "amount": 1
+          },
+          {
+            "id": "watch",
+            "icon": "watch",
+            "name": "Watch",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "stealthvest",
+        "icon": "stealthvest",
+        "name": "Stealth Vest",
+        "items": [
+          {
+            "id": "electrical_components",
+            "icon": "electrical_components",
+            "name": "Electrical Components",
+            "amount": 2
+          },
+          {
+            "id": "comic_book",
+            "icon": "comic_book",
+            "name": "Comic Book",
+            "amount": 1
+          },
+          {
+            "id": "game_console",
+            "icon": "game_console",
+            "name": "Game Console",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "scavenger_backpack",
+        "icon": "scavenger_backpack",
+        "name": "Scavenger backpack",
+        "items": [
+          {
+            "id": "battery",
+            "icon": "battery",
+            "name": "Battery",
+            "amount": 1
+          },
+          {
+            "id": "canned_foods",
+            "icon": "canned_foods",
+            "name": "Canned Foods",
+            "amount": 1
+          },
+          {
+            "id": "gun_cleaning_oil",
+            "icon": "gun_cleaning_oil",
+            "name": "Gun Cleaning Oil",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "id": "secure_backpack",
+        "icon": "secure_backpack",
+        "name": "Secure backpack",
+        "items": [
+          {
+            "id": "electric_drill",
+            "icon": "electric_drill",
+            "name": "Electric Drill",
+            "amount": 2
+          },
+          {
+            "id": "gas_can",
+            "icon": "gas_can",
+            "name": "Gas Can",
+            "amount": 2
+          },
+          {
+            "id": "gold_skull",
+            "icon": "gold_skull",
+            "name": "Gold Skull",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "id": "armor_box",
+        "icon": "armor_box",
+        "name": "Armor Box",
+        "items": [
+          {
+            "id": "electric_tape",
+            "icon": "electric_tape",
+            "name": "Electric Tape",
+            "amount": 1
+          },
+          {
+            "id": "screwdriver",
+            "icon": "screwdriver",
+            "name": "Screwdriver",
+            "amount": 1
+          },
+          {
+            "id": "c4",
+            "icon": "c4",
+            "name": "C4",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "munitions_box",
+        "icon": "munitions_box",
+        "name": "Munitions Box",
+        "items": [
+          {
+            "id": "imported_tea",
+            "icon": "imported_tea",
+            "name": "Imported Tea",
+            "amount": 1
+          },
+          {
+            "id": "cash",
+            "icon": "cash",
+            "name": "Cash",
+            "amount": 500
+          }
+        ]
+      },
+      {
+        "id": "revive_pistol",
+        "icon": "revive_pistol",
+        "name": "Revive Pistol",
+        "items": [
+          {
+            "id": "toothpaste",
+            "icon": "toothpaste",
+            "name": "Toothpaste",
+            "amount": 2
+          },
+          {
+            "id": "lighter",
+            "icon": "lighter",
+            "name": "Lighter",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "tactical_camera",
+        "icon": "tactical_camera",
+        "name": "Tactical Camera",
+        "items": [
+          {
+            "id": "car_battery",
+            "icon": "car_battery",
+            "name": "Car Battery",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "skeleton_key",
+        "icon": "skeleton_key",
+        "name": "Skeleton Key",
+        "items": [
+          {
+            "id": "gpu",
+            "icon": "gpu",
+            "name": "GPU",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "crane_control_key",
+        "icon": "crane_control_key",
+        "name": "Crane Control Key",
+        "items": [
+          {
+            "id": "stronghold_keycard",
+            "icon": "stronghold_keycard",
+            "name": "Stronghold Keycard",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "poppy_farmer_key",
+        "icon": "poppy_farmer_key",
+        "name": "Poppy Farmer Key",
+        "items": [
+          {
+            "id": "radiation_blocker",
+            "icon": "radiation_blocker",
+            "name": "Radiation Blocker",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "id": "radiation_blocker",
+        "icon": "radiation_blocker",
+        "name": "Radiation Blocker",
+        "items": [
+          {
+            "id": "blow_torch",
+            "icon": "blow_torch",
+            "name": "Blow Torch",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "id": "durable_gas_mask",
+        "icon": "durable_gas_mask",
+        "name": "Durable Gas Mask",
+        "items": [
+          {
+            "id": "toothpaste",
+            "icon": "toothpaste",
+            "name": "Toothpaste",
+            "amount": 2
+          },
+          {
+            "id": "lighter",
+            "icon": "lighter",
+            "name": "Lighter",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  "building-21": {
+    "name": "Building 21",
+    "recipes": []
+  }
+}
